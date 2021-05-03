@@ -15,7 +15,7 @@ If you have any questions, please contact us for clarification, we're happy to h
 
 ## Exercise
 
-Using the provided [specs](specs.png), create a reusable `Select Menu` component.
+Using the provided [specs](specs.png), create a reusable `Select Menu` component. For this exercise, we ask you to implement your own component and not use ready any ready solutions, like react-select, Material UI, etc.
 
 - Your component should be written in React.
 - You can choose between Javascript or Typescript.
