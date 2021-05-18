@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-close</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Design-System-Challenge" transform="translate(-1135.000000, -612.000000)">
+            <g id="Group" transform="translate(1135.000000, 612.000000)">
+                <circle id="Oval" fill="#434862" cx="8" cy="8" r="8"></circle>
+                <g id="icon" filter="url(#filter-1)">
+                    <g>
+                        <rect id="bounding-box" x="0" y="0" width="16" height="16"></rect>
+                        <line x1="12" y1="4" x2="4" y2="12" id="path" stroke="#6E7492"></line>
+                        <line x1="4" y1="4" x2="12" y2="12" id="path" stroke="#6E7492"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

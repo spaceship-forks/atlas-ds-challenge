@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-search</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.431373 0 0 0 0 0.454902 0 0 0 0 0.572549 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Design-System-Challenge" transform="translate(-1137.000000, -690.000000)">
+            <g id="icon-search" transform="translate(1135.000000, 688.000000)" filter="url(#filter-1)">
+                <g>
+                    <rect id="bounding-box" x="0" y="0" width="16" height="16"></rect>
+                    <path d="M7.5,12.5 C10.262,12.5 12.5,10.262 12.5,7.5 C12.5,4.738 10.262,2.5 7.5,2.5 C4.738,2.5 2.5,4.738 2.5,7.5 C2.5,10.262 4.738,12.5 7.5,12.5 Z" id="path" stroke="#6E7492"></path>
+                    <line x1="13.5" y1="13.5" x2="11.046" y2="11.023" id="path" stroke="#6E7492"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
