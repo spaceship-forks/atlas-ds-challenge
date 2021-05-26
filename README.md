@@ -31,4 +31,6 @@ We expect you to create a **reusable** component that can be easily integrated i
 
 Don't forget to add a documentation page with examples of the different use cases of your component, including instructions on how to use it and how to run your project locally.
 
+Remember, the closer your component looks in comparison to the specs, the better 🙂
+
 Good luck!
